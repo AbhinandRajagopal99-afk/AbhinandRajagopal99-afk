@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there, I'm Abhinand Rajagopal
 
-<!--
-**AbhinandRajagopal99-afk/AbhinandRajagopal99-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a former **Senior Software Engineer** specializing in the React ecosystem, currently pursuing my **MBA in Data Science & Data Analytics (Class of 2028)**. I bridge the gap between building high-performance user interfaces and extracting data-driven business insights.
 
-Here are some ideas to get you started:
+### Technical Toolkit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Front-End Engineering:** React, JavaScript (ES6+), TypeScript, HTML5, SCSS / Sass
+- **Data & Analytics:** Python (Pandas, NumPy), SQL, Data Visualization, Statistical Analysis
+- **Tools & Workflows:** Git, Webpack, UI Component Libraries
+
+### Current Focus
+- Learning to combine user behavioral data with predictive analytics to optimize digital products.
+- Exploring data science frameworks while keeping my React and TypeScript skills razor-sharp.
+- Deep in MBA coursework focusing on data analytics and corporate strategy.
